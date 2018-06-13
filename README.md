@@ -15,7 +15,9 @@ Not that much to explain here really, just install the dependencies and run the 
 ```
 cd server
 ```
+```
 npm install
+```
 
 ```
 node server.js OR nodemon server.js (preferred but not needed)
