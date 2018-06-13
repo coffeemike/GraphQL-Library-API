@@ -22,6 +22,7 @@ node server.js OR nodemon server.js (preferred but not needed)
 ```
 localhost:4000/graphql to access the root node and the graphical "GraphiQL" api tool.
 
+```
 {
   author(id:3){
     name
@@ -32,7 +33,7 @@ localhost:4000/graphql to access the root node and the graphical "GraphiQL" api 
     }
   }
 }
-
+```
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
