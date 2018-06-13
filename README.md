@@ -34,9 +34,10 @@ localhost:4000/graphql to access the root node and the graphical "GraphiQL" api 
   }
 }
 ```
+
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
 ### Acknowledgments
 
