@@ -21,7 +21,7 @@ npm install
 node server.js OR nodemon server.js (preferred but not needed)
 ```
 localhost:4000/graphql to access the root node and the graphical "GraphiQL" api tool.
-```
+
 {
   author(id:3){
     name
@@ -32,7 +32,6 @@ localhost:4000/graphql to access the root node and the graphical "GraphiQL" api 
     }
   }
 }
-
 
 ### License
 
