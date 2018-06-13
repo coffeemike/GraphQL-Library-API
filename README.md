@@ -1,4 +1,4 @@
-# Project Title
+# GraphQL + Express + Mongodb
 
 GraphQL Library API built on node connected to mlabs.com for storage.
 Based on The Net Ninja's GraphQL tutorials.
@@ -8,7 +8,7 @@ Based on The Net Ninja's GraphQL tutorials.
 Node.
 mlabs.com user/use the included dummy data.
 
-### Installing
+### Installing + Use
 
 Not that much to explain here really, just install the dependencies and run the damn thing.
 
@@ -34,10 +34,10 @@ localhost:4000/graphql to access the root node and the graphical "GraphiQL" api 
 }
 
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * Thank you https://www.thenetninja.co.uk/
